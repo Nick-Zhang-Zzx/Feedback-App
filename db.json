@@ -3,17 +3,17 @@
     {
       "id": 1,
       "rating": 8,
-      "text": "This is feedback item 1 from backend"
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae."
     },
     {
       "id": 2,
       "rating": 9,
-      "text": "This is feedback item 2 from backend"
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae."
     },
     {
       "id": 3,
       "rating": 10,
-      "text": "This is feedback item 3 from backend"
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae."
     }
   ]
 }
